@@ -1,0 +1,22 @@
+BAG:admin remove 1xCải trang Dr Lychee lydo: Item hết hạn sử dụng at 11/27/2023 8:50 AM
+BAG:admin remove 1xCải trang Black Goku SSJ White lydo: Item hết hạn sử dụng at 11/27/2023 8:50 AM
+BAG:admin remove Cải trang Đôrêmon lydo: Tự Xóa vật phẩm at 11/27/2023 10:19 AM
+BAG:admin remove Vệ tinh sinh lực lydo: Tự Xóa vật phẩm at 11/27/2023 10:19 AM
+BAG:admin remove Vệ tinh trí lực lydo: Tự Xóa vật phẩm at 11/27/2023 10:19 AM
+BAG:admin remove Sao pha lê lydo: Tự Xóa vật phẩm at 11/27/2023 10:19 AM
+BAG:admin remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 11/27/2023 10:19 AM
+BAG:admin remove Áo sợi len lydo: Tự Xóa vật phẩm at 11/27/2023 10:19 AM
+BAG:admin remove Sao pha lê lydo: Tự Xóa vật phẩm at 11/27/2023 10:19 AM
+BAG:admin remove Sao pha lê lydo: Tự Xóa vật phẩm at 11/27/2023 10:19 AM
+BAG:admin remove Sao pha lê lydo: Tự Xóa vật phẩm at 11/27/2023 10:20 AM
+BAG:admin remove 1xVệ tinh phòng thủ lydo: Dùng vệ tinh at 11/27/2023 10:20 AM
+BAG:admin remove Găng võ goku lydo: Mặc vào người at 11/27/2023 10:48 AM
+BAG:admin remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 11/27/2023 10:49 AM
+BAG:admin remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 11/27/2023 10:49 AM
+BAG:admin remove Găng võ goku lydo: Mặc vào người at 11/27/2023 10:49 AM
+BAG:admin remove Găng võ goku lydo: Tự Xóa vật phẩm at 11/27/2023 11:01 AM
+BAG:admin remove Găng võ goku lydo: Tự Xóa vật phẩm at 11/27/2023 11:01 AM
+BAG:admin remove Cải trang Gohan Bư lydo: Mặc vào người at 11/27/2023 1:19 PM
+BAG:admin remove Rada cấp 12 lydo: Mặc vào người at 11/27/2023 6:52 PM
+BAG:admin remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 11/27/2023 6:52 PM
+BAG:admin remove Cân đẩu vân VIP lydo: Tự Xóa vật phẩm at 11/27/2023 6:54 PM

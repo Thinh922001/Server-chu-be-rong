@@ -1,0 +1,34 @@
+BAG:hihiih add 1xSách đấm Demon lv2 lydo: Mua từ cửa hàng at 11/28/2023 10:45 AM
+BAG:hihiih add 1xSách đấm Demon lv3 lydo: Mua từ cửa hàng at 11/28/2023 10:45 AM
+BAG:hihiih add 1xSách đấm Demon lv4 lydo: Mua từ cửa hàng at 11/28/2023 10:45 AM
+BAG:hihiih add 1xSách đấm Demon lv5 lydo: Mua từ cửa hàng at 11/28/2023 10:45 AM
+BAG:hihiih add 1xSách đấm Demon lv6 lydo: Mua từ cửa hàng at 11/28/2023 10:45 AM
+BAG:hihiih add 1xSách đấm Demon lv7 lydo: Mua từ cửa hàng at 11/28/2023 10:45 AM
+BAG:hihiih add 1xSách Liên hoàn lv1 lydo: Mua từ cửa hàng at 11/28/2023 10:46 AM
+BAG:hihiih add 1xSách Liên hoàn lv2 lydo: Mua từ cửa hàng at 11/28/2023 10:46 AM
+BAG:hihiih add 1xSách Liên hoàn lv3 lydo: Mua từ cửa hàng at 11/28/2023 10:46 AM
+BAG:hihiih add 1xSách Liên hoàn lv4 lydo: Mua từ cửa hàng at 11/28/2023 10:46 AM
+BAG:hihiih add 1xSách Liên hoàn lv5 lydo: Mua từ cửa hàng at 11/28/2023 10:46 AM
+BAG:hihiih add 1xSách Liên hoàn lv6 lydo: Mua từ cửa hàng at 11/28/2023 10:46 AM
+BAG:hihiih add 1xSách Liên hoàn lv7 lydo: Mua từ cửa hàng at 11/28/2023 10:46 AM
+BAG:hihiih add 1xBông tai Porata lydo: Mua từ cửa hàng at 11/28/2023 10:51 AM
+BAG:hihiih add 1xSách Masenko lv1 lydo: Mua từ cửa hàng at 11/28/2023 10:52 AM
+BAG:hihiih add 1xSách Masenko lv2 lydo: Mua từ cửa hàng at 11/28/2023 10:52 AM
+BAG:hihiih add 1xSách Masenko lv3 lydo: Mua từ cửa hàng at 11/28/2023 10:52 AM
+BAG:hihiih add 1xSách Masenko lv4 lydo: Mua từ cửa hàng at 11/28/2023 10:52 AM
+BAG:hihiih add 1xSách Masenko lv5 lydo: Mua từ cửa hàng at 11/28/2023 10:52 AM
+BAG:hihiih add 1xSách Masenko lv6 lydo: Mua từ cửa hàng at 11/28/2023 10:52 AM
+BAG:hihiih add 1xSách Masenko lv7 lydo: Mua từ cửa hàng at 11/28/2023 10:52 AM
+BAG:hihiih add 1xMakankosappo lv1 lydo: Mua từ cửa hàng at 11/28/2023 10:52 AM
+BAG:hihiih add 1xMakankosappo lv2 lydo: Mua từ cửa hàng at 11/28/2023 10:52 AM
+BAG:hihiih add 1xMakankosappo lv3 lydo: Mua từ cửa hàng at 11/28/2023 10:52 AM
+BAG:hihiih add 1xMakankosappo lv4 lydo: Mua từ cửa hàng at 11/28/2023 10:52 AM
+BAG:hihiih add 1xMakankosappo lv5 lydo: Mua từ cửa hàng at 11/28/2023 10:52 AM
+BAG:hihiih add 1xMakankosappo lv6 lydo: Mua từ cửa hàng at 11/28/2023 10:52 AM
+BAG:hihiih add 1xMakankosappo lv7 lydo: Mua từ cửa hàng at 11/28/2023 10:52 AM
+BAG:hihiih add 1xSách Biến Sôcôla lv1 lydo: Mua từ cửa hàng at 11/28/2023 10:52 AM
+BAG:hihiih add 1xSách Biến Sôcôla lv2 lydo: Mua từ cửa hàng at 11/28/2023 10:52 AM
+BAG:hihiih add 1xSách Biến Sôcôla lv3 lydo: Mua từ cửa hàng at 11/28/2023 10:52 AM
+BAG:hihiih add 1xSách Biến Sôcôla lv4 lydo: Mua từ cửa hàng at 11/28/2023 10:52 AM
+BAG:hihiih add 1xSách Biến Sôcôla lv5 lydo: Mua từ cửa hàng at 11/28/2023 10:52 AM
+BAG:hihiih add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 11/28/2023 10:55 AM

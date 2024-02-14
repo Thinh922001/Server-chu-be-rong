@@ -1,0 +1,45 @@
+BAG:cadic add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 11/30/2023 12:58 PM
+BAG:cadic add 1xSách Antomic lv1 lydo: Mua từ cửa hàng at 11/30/2023 12:58 PM
+BAG:cadic add 1xSách Antomic lv2 lydo: Mua từ cửa hàng at 11/30/2023 12:58 PM
+BAG:cadic add 1xSách Antomic lv3 lydo: Mua từ cửa hàng at 11/30/2023 12:58 PM
+BAG:cadic add 1xSách Antomic lv4 lydo: Mua từ cửa hàng at 11/30/2023 12:58 PM
+BAG:cadic add 1xSách Antomic lv5 lydo: Mua từ cửa hàng at 11/30/2023 12:58 PM
+BAG:cadic add 1xSách Antomic lv6 lydo: Mua từ cửa hàng at 11/30/2023 12:58 PM
+BAG:cadic add 1xSách Antomic lv7 lydo: Mua từ cửa hàng at 11/30/2023 12:58 PM
+BAG:cadic add 1xSách đấm Galick lv1 lydo: Mua từ cửa hàng at 11/30/2023 12:59 PM
+BAG:cadic add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 11/30/2023 12:59 PM
+BAG:cadic add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 11/30/2023 12:59 PM
+BAG:cadic add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 11/30/2023 12:59 PM
+BAG:cadic add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 11/30/2023 12:59 PM
+BAG:cadic add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 11/30/2023 12:59 PM
+BAG:cadic add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 11/30/2023 12:59 PM
+BAG:cadic add 1xBom hi sinh lv1 lydo: Mua từ cửa hàng at 11/30/2023 12:59 PM
+BAG:cadic add 1xBom hi sinh lv2 lydo: Mua từ cửa hàng at 11/30/2023 12:59 PM
+BAG:cadic add 1xBom hi sinh lv3 lydo: Mua từ cửa hàng at 11/30/2023 12:59 PM
+BAG:cadic add 1xBom hi sinh lv4 lydo: Mua từ cửa hàng at 11/30/2023 12:59 PM
+BAG:cadic add 1xBom hi sinh lv5 lydo: Mua từ cửa hàng at 11/30/2023 1:00 PM
+BAG:cadic add 1xBom hi sinh lv6 lydo: Mua từ cửa hàng at 11/30/2023 1:00 PM
+BAG:cadic add 1xBom hi sinh lv7 lydo: Mua từ cửa hàng at 11/30/2023 1:00 PM
+BAG:cadic add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 11/30/2023 1:00 PM
+BAG:cadic add 1xHóa khỉ khổng lồ lv2 lydo: Mua từ cửa hàng at 11/30/2023 1:00 PM
+BAG:cadic add 1xHóa khỉ khổng lồ lv3 lydo: Mua từ cửa hàng at 11/30/2023 1:00 PM
+BAG:cadic add 1xHóa khỉ khổng lồ lv4 lydo: Mua từ cửa hàng at 11/30/2023 1:00 PM
+BAG:cadic add 1xHóa khỉ khổng lồ lv5 lydo: Mua từ cửa hàng at 11/30/2023 1:00 PM
+BAG:cadic add 1xHóa khỉ khổng lồ lv6 lydo: Mua từ cửa hàng at 11/30/2023 1:00 PM
+BAG:cadic add 1xHóa khỉ khổng lồ lv7 lydo: Mua từ cửa hàng at 11/30/2023 1:00 PM
+BAG:cadic add 1xTái tạo năng lượng lv1 lydo: Mua từ cửa hàng at 11/30/2023 1:00 PM
+BAG:cadic add 1xTái tạo năng lượng lv2 lydo: Mua từ cửa hàng at 11/30/2023 1:01 PM
+BAG:cadic add 1xTái tạo năng lượng lv3 lydo: Mua từ cửa hàng at 11/30/2023 1:01 PM
+BAG:cadic add 1xTái tạo năng lượng lv4 lydo: Mua từ cửa hàng at 11/30/2023 1:01 PM
+BAG:cadic add 1xTái tạo năng lượng lv5 lydo: Mua từ cửa hàng at 11/30/2023 1:01 PM
+BAG:cadic add 1xTái tạo năng lượng lv6 lydo: Mua từ cửa hàng at 11/30/2023 1:01 PM
+BAG:cadic add 1xTái tạo năng lượng lv7 lydo: Mua từ cửa hàng at 11/30/2023 1:01 PM
+BAG:cadic add 1xBông tai Porata lydo: Mua từ cửa hàng at 11/30/2023 1:01 PM
+BAG:cadic add 1xSách Huýt Sáo lv1 lydo: Mua từ cửa hàng at 11/30/2023 1:02 PM
+BAG:cadic add 1xSách Huýt Sáo lv2 lydo: Mua từ cửa hàng at 11/30/2023 1:02 PM
+BAG:cadic add 1xSách Huýt Sáo lv3 lydo: Mua từ cửa hàng at 11/30/2023 1:02 PM
+BAG:cadic add 1xSách Huýt Sáo lv4 lydo: Mua từ cửa hàng at 11/30/2023 1:02 PM
+BAG:cadic add 1xSách Huýt Sáo lv5 lydo: Mua từ cửa hàng at 11/30/2023 1:02 PM
+BAG:cadic add 1xSách Huýt Sáo lv6 lydo: Mua từ cửa hàng at 11/30/2023 1:02 PM
+BAG:cadic add 1xSách Huýt Sáo lv7 lydo: Mua từ cửa hàng at 11/30/2023 1:02 PM
+BAG:cadic add 1xĐậu xanh lydo: Nhặt từ map at 11/30/2023 1:12 PM
