@@ -78,7 +78,6 @@ namespace NRO_Server.DatabaseManager
         {
             try
             {
-                Console.WriteLine("Start init");
                 Os = int.Parse(_configuration.GetSection("os").Value);
                 Link = _configuration.GetSection("server").GetSection("link").Value;
                 ServerHost = _configuration.GetSection("server").GetSection("host").Value;
@@ -91,7 +90,6 @@ namespace NRO_Server.DatabaseManager
                 IsVIPServer = Boolean.Parse(_configuration.GetSection("server").GetSection("vip-server").Value);
                 SuKienTrungThu = Boolean.Parse(_configuration.GetSection("server").GetSection("event-trungthu").Value);
                 MaxPlayers = int.Parse(_configuration.GetSection("server").GetSection("max-players").Value);
-                Console.WriteLine("Start Done init");
             }
             catch (Exception e)
             {

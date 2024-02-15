@@ -18,12 +18,8 @@ namespace NRO_Server.Application.Main
                 .AddJsonFile("config.json");
             var configurationRoot = configBuilder.Build();
 
-
-            Console.WriteLine("Start configurationRoot");
             DatabaseManager.Manager.CreateManager(configurationRoot);
-            Console.WriteLine("Done configurationRoot");
             Server.Gi().StartServer(true, logger, configurationRoot, false);
-            Console.WriteLine("Done StartServer");
             Console.CancelKeyPress += delegate (object sender, ConsoleCancelEventArgs e)
             {
                 e.Cancel = true;
