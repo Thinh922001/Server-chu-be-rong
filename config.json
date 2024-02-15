@@ -40,7 +40,7 @@
   },
   "database": {
     "mysql": {
-      "host": "database-3.c7rpwa4oskln.ap-southeast-1.rds.amazonaws.com",
+      "host": "database-1.c7rpwa4oskln.ap-southeast-1.rds.amazonaws.com",
       "port": 3306,
       "user": "admin",
       "password": "0967611122",
